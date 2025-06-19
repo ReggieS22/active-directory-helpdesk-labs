@@ -60,8 +60,3 @@ The password reset was completed successfully. The user can now log in using the
 - Navigating ADUC to manage user accounts
 - How to reset a user’s password and enforce best practices
 - Simulating real help desk scenarios using cloud-hosted environments
-
-
-
-## 📷 Screenshots
-Each lab folder contains step-by-step screenshots of the process to provide visual documentation of the work performed.
