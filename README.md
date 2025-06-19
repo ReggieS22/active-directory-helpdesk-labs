@@ -13,7 +13,7 @@ These labs were designed to build hands-on experience with Active Directory user
 
 | Lab # | Task | Description |
 |-------|------|-------------|
-| 01 | [Password Reset](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/391df1531e0b6d35f96952180edc5f856740cf39/open-aduc.png.png) (https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/61c89170059aa8ae43452cbe0ba8824919342de8/reset-password-png.png) | Reset a user password in Active Directory using ADUC. |
+| 01 | [Password Reset](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/391df1531e0b6d35f96952180edc5f856740cf39/open-aduc.png.png) | Reset a user password in Active Directory using ADUC. |
 | 02 | [Create User and Add to Group](./02-create-user-add-to-group/README.md) | Create a new user account and assign it to the Remote Desktop Users group. |
 | 03 | [Unlock User Account](./03-unlock-user-account/README.md) | Simulate and resolve a locked-out AD user account. |
 
