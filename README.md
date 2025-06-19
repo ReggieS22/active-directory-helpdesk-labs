@@ -33,7 +33,7 @@ This lab demonstrates how to perform a password reset for a user account in **Ac
 
 Launched ADUC from the Start menu.
 
-![Open ADUC](./screenshots/open-aduc.png)
+![Open ADUC](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/62833245db10c2609d42f748b5127a91267bdc1a/Active%20Directory%20password%20resets%20lab%20screenshots/open-aduc.png.png)
 
 
 ### 2. Locate the User & Reset the Password
