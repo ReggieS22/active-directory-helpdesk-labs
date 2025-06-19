@@ -24,7 +24,7 @@ This lab demonstrates how to perform a password reset for a user account in **Ac
 
 ## 📋 Scenario
 
-> A user is unable to log into their workstation. You’ve been asked to reset their password and enforce a password change at next logon.
+ A user is unable to log into their workstation. You’ve been asked to reset their password and enforce a password change at next logon.
 
 
 ## 🧪 Steps Performed
