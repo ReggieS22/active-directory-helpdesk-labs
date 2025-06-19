@@ -2,7 +2,7 @@
 
 ## 📋 Scenario
 
-> A new employee has joined the company and needs a new domain account with remote desktop access.
+ A new employee has joined the company and needs a new domain account with remote desktop access.
 
 ## 🧪 Steps
 
