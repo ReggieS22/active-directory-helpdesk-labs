@@ -9,7 +9,7 @@ This project showcases common Tier 1 IT Help Desk tasks performed in a cloud-bas
 |----|-----------------------------------------------------|------------------------------------------------------------|
 | 01 | [Password Reset](./01-password-reset/README.md)     | Reset a user’s password and enforce password change        |
 | 02 | [Create New User + RDP Access](./02-create-user-rdp/README.md) | Create a domain user and assign them to the RDP group      |
-| 03 | [Unlock Locked Account](./03-unlock-account/README.md)       | Unlock a domain user account that was locked out           |
+| 03 | [Unlock Locked Account](https://github.com/ReggieS22/active-directory-helpdesk-labs/tree/main/03-Unlock-account)       | Unlock a domain user account that was locked out           |
 
 
 ## ☁️ Lab Environment
