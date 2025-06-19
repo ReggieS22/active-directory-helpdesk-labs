@@ -47,7 +47,7 @@ Right-clicked the user account and selected **Reset Password**, entered a new te
 
 Confirmed that the password reset was successful and saved changes.
 
-![Confirmation](./screenshots/confirm-reset.png)
+![Confirmation](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/564ac8dc1d21a1a127bd6aa876e3fb3978b9d242/Active%20Directory%20password%20resets%20lab%20screenshots/confirm-reset.png.png)
 
 
 ## ✅ Outcome
