@@ -40,7 +40,7 @@ Launched ADUC from the Start menu.
 
 Right-clicked the user account and selected **Reset Password**, entered a new temporary password, and enforced password change at next logon.
 
-![Reset Password](./screenshots/password-reset.png)
+![Reset Password](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/8f3bfd96835808c444b577a8836e0d9605cb9948/Active%20Directory%20password%20resets%20lab%20screenshots/reset-password-png.png)
 
 
 ### 3. Confirm Password Reset
