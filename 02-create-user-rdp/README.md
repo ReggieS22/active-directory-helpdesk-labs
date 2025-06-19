@@ -18,3 +18,15 @@
 ## ✅ Outcome
 
 User was successfully created and granted RDP access.
+
+🧠 What I Learned
+
+How to create new user accounts in Active Directory using ADUC
+
+How to manage user properties and set account details
+
+How to add users to security groups, specifically the Remote Desktop Users group to grant RDP access
+
+Understanding the importance of group membership for permissions in Windows environments
+
+Practical experience simulating real-world IT Help Desk user provisioning tasks
