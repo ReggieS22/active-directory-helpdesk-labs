@@ -17,9 +17,7 @@ These labs were designed to build hands-on experience with Active Directory user
 | 02 | [Create User and Add to Group](./02-create-user-add-to-group/README.md) | Create a new user account and assign it to the Remote Desktop Users group. |
 | 03 | [Unlock User Account](./03-unlock-user-account/README.md) | Simulate and resolve a locked-out AD user account. |
 
-## 📌 Why This Matters
 
-Active Directory is used in nearly every corporate IT environment. These labs demonstrate core helpdesk tasks like managing user accounts, resetting passwords, and assigning group access — all of which are essential for IT support roles. 
 
 ## 📷 Screenshots
 Each lab folder contains step-by-step screenshots of the process to provide visual documentation of the work performed.
