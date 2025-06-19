@@ -2,7 +2,6 @@
 
 This project showcases common Tier 1 IT Help Desk tasks performed in a cloud-based Active Directory environment. Each lab simulates a real-world scenario handled using **Windows Server 2019** hosted on **AWS EC2**.
 
----
 
 ## 📂 Labs Included
 
@@ -12,7 +11,6 @@ This project showcases common Tier 1 IT Help Desk tasks performed in a cloud-bas
 | 02 | [Create New User + RDP Access](./02-create-user-rdp/README.md) | Create a domain user and assign them to the RDP group      |
 | 03 | [Unlock Locked Account](./03-unlock-account/README.md)       | Unlock a domain user account that was locked out           |
 
----
 
 ## ☁️ Lab Environment
 
@@ -20,7 +18,6 @@ This project showcases common Tier 1 IT Help Desk tasks performed in a cloud-bas
 - **OS:** Windows Server 2019
 - **Tools:** Active Directory Domain Services, ADUC
 
----
 
 ## 🧠 Skills Demonstrated
 
@@ -30,7 +27,6 @@ This project showcases common Tier 1 IT Help Desk tasks performed in a cloud-bas
 - 🖥️ Remote Desktop access setup
 - 🧩 Real-world IT Help Desk troubleshooting
 
----
 
 ## 📌 About Me
 
