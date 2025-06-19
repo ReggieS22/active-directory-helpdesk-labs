@@ -10,10 +10,10 @@
    ![Create User](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/9415fc7d71b104a5adb94b8afa92cbe5f0f89411/Creating%20a%20new%20user%20account%20and%20add%20to%20a%20remote%20desktop%20user/creation%201.png)
 
 2. Open the user properties  
-   ![User Properties](./screenshots/user-properties.png)
+   ![User Properties](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/d52fb593e5e28433ba79a408079d5a7479901228/Creating%20a%20new%20user%20account%20and%20add%20to%20a%20remote%20desktop%20user/creation%202.png)
 
 3. Add them to **Remote Desktop Users** group  
-   ![RDP Group](./screenshots/add-to-remote-desktop-group.png)
+   ![RDP Group](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/d52fb593e5e28433ba79a408079d5a7479901228/Creating%20a%20new%20user%20account%20and%20add%20to%20a%20remote%20desktop%20user/creation%203.png)
 
 ## ✅ Outcome
 
