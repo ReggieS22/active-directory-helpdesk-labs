@@ -20,17 +20,17 @@ This lab demonstrates how to reset a user's password in Active Directory Users a
 
 ### 1. Open Active Directory Users and Computers
 
-![Open ADUC](./screenshots/open-aduc.png)
+![Open ADUC](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/62833245db10c2609d42f748b5127a91267bdc1a/Active%20Directory%20password%20resets%20lab%20screenshots/open-aduc.png.png)
 
 
 ### 2. Locate the User and Reset the Password
 
-![Reset Password](./screenshots/password-reset.png)
+![Reset Password](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/8f3bfd96835808c444b577a8836e0d9605cb9948/Active%20Directory%20password%20resets%20lab%20screenshots/reset-password-png.png)
 
 
 ### 3. Confirm Password Reset and Enforce Change at Next Login
 
-![Confirm Reset](./screenshots/confirm-reset.png)
+![Confirm Reset](https://github.com/ReggieS22/active-directory-helpdesk-labs/blob/564ac8dc1d21a1a127bd6aa876e3fb3978b9d242/Active%20Directory%20password%20resets%20lab%20screenshots/confirm-reset.png.png)
 
 
 ## ✅ Outcome
