@@ -9,7 +9,57 @@ These labs were designed to build hands-on experience with Active Directory user
 - **OS:** Windows Server
 - **Tools Used:** Active Directory Users and Computers (ADUC), Remote Desktop Protocol (RDP)
 
+# 🔐 Password Reset Lab (Active Directory)
 
+## 📄 Description
+
+This lab demonstrates how to perform a password reset for a user account in **Active Directory Users and Computers (ADUC)** — a common Tier 1 Help Desk task. This was done on a Windows Server running in an AWS EC2 environment.
+
+
+## 🧰 Tools Used
+
+- AWS EC2 (Windows Server 2019)
+- Active Directory Users and Computers (ADUC)
+
+
+## 📋 Scenario
+
+> A user is unable to log into their workstation. You’ve been asked to reset their password and enforce a password change at next logon.
+
+
+## 🧪 Steps Performed
+
+### 1. Open Active Directory Users and Computers
+
+Launched ADUC from the Start menu.
+
+![Open ADUC](./screenshots/open-aduc.png)
+
+
+### 2. Locate the User & Reset the Password
+
+Right-clicked the user account and selected **Reset Password**, entered a new temporary password, and enforced password change at next logon.
+
+![Reset Password](./screenshots/password-reset.png)
+
+
+### 3. Confirm Password Reset
+
+Confirmed that the password reset was successful and saved changes.
+
+![Confirmation](./screenshots/confirm-reset.png)
+
+
+## ✅ Outcome
+
+The password reset was completed successfully. The user can now log in using the new temporary password and will be required to create a new one at next login.
+
+
+## 🧠 What I Learned
+
+- Navigating ADUC to manage user accounts
+- How to reset a user’s password and enforce best practices
+- Simulating real help desk scenarios using cloud-hosted environments
 
 
 
